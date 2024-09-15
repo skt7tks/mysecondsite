@@ -1,0 +1,79 @@
+
+
+.header {
+    background: blueviolet;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+    unicode-bidi: isolate;
+}
+table {
+    width: 100%;
+    text-align: center;
+}
+.container img {
+    width: 200px; 
+    height: 150px; 
+    object-fit: cover; 
+    margin: 10px;
+}
+.banner {
+    background: rgb(195, 187, 187);
+    width: 100%;
+}
+.banner img{
+    display: block;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 95%;
+}
+.banner span{
+    text-decoration: line-through;
+}
+
+.banner table{
+    border: 1px solid #000;
+}
+
+.banner td{
+    border:1px solid #000;
+}
+
+#table-top-color{
+    background-color: blueviolet;
+}
+
+.information p{
+    color: #878787;
+}
+
+.information h1{
+    color: #878787;
+}
+
+.information h2{
+    color: #878787;
+}
+
+.information ul{
+    color: #878787;
+}
+
+.finally {
+    background: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: xx-small;
+}
